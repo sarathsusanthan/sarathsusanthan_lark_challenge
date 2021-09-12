@@ -1,0 +1,8 @@
+*{
+padding: 0%;
+margin: 0%;
+}
+body{
+    background-size: cover;
+    background-image: url(images/g2.jpg);
+}

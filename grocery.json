@@ -1,0 +1,91 @@
+
+    [
+        {
+            "slno":"SL NO.",
+            "name":"NAME",
+            "quntity":"QUANTITY",
+            "unit":"UNIT",
+            "dep":"DEPARTMENT",
+            "note":"NOTES"
+        },
+        {
+            "slno":"1",
+            "name":"Coconut oil",
+            "quntity":"2",
+            "unit":"kg",
+            "dep":"Oil & Gee",
+            "note":"Kera brand"
+        },
+        {
+            "slno":"2",
+            "name":"Tomato",
+            "quntity":"1",
+            "unit":"kg",
+            "dep":"Vegetable",
+            "note":"NA"
+        },
+        {
+            "slno":"3",
+            "name":"Potato",
+            "quntity":"2",
+            "unit":"kg",
+            "dep":"Vegetable",
+            "note":"NA"
+        },
+        {
+            "slno":"4",
+            "name":"Milk",
+            "quntity":"2",
+            "unit":"Litre",
+            "dep":"Milk & Butter",
+            "note":"Milma brand"
+        },
+        {
+            "slno":"5",
+            "name":"Rice",
+            "quntity":"20",
+            "unit":"kg",
+            "dep":"Grains",
+            "note":"7 star"
+        },
+        {
+            "slno":"6",
+            "name":"Beans",
+            "quntity":"1",
+            "unit":"kg",
+            "dep":"Vegetable",
+            "note":"NA"
+        },
+        {
+            "slno":"7",
+            "name":"Onion",
+            "quntity":"1",
+            "unit":"kg",
+            "dep":"Vegetable",
+            "note":"NA"
+        },
+        {
+            "slno":"8",
+            "name":"Fruity",
+            "quntity":"2",
+            "unit":"bottle",
+            "dep":"Juice",
+            "note":"Fruity brand"
+        },
+        {
+            "slno":"9",
+            "name":"Plum cake",
+            "quntity":"2",
+            "unit":"Number",
+            "dep":"Bakery",
+            "note":"Elite"
+        },
+        {
+            "slno":"10",
+            "name":"Bread",
+            "quntity":"2",
+            "unit":"Litre",
+            "dep":"Bakery",
+            "note":"Elite"
+        }
+    ]
